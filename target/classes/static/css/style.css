@@ -1,0 +1,25 @@
+.navbar-brand{
+	padding-top: 0px;
+}
+
+.card-default {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.alert{
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+.aw-link-panel{
+	float: right;
+	padding: 0px
+}
+.aw-titulo-panel{
+	float: left;
+	padding-top: 2px;
+}
+.input-group.md-form.form-sm.form-2{
+  border: 1px ;
+}
